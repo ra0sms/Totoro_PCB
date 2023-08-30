@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=O17n7GcvxP4
 ![Schematic](photo/1.jpg)
 
 ![Schematic](photo/2.jpg)
+
+![Schematic](DipTrace/man_totoro.png)
